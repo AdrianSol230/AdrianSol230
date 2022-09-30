@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @AdrianSol230
+- meu email é de contato adrian.castro.miranda@escola.pr.gov.br
+- 👀 eu estou interessado em programar novas linguagens.
+-🌱 eu estou aprendendo a programar recentemente a linguagem de JavaScript e Scratch
